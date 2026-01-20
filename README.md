@@ -71,19 +71,20 @@
 
 ### 📫 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/tanishq2429" target="_blank">
-    <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:tanishqyadav.n2429@gmail.com">
-    <img align="left" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/tanishq2429" target="_blank">
-    <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"/>
   </a>
 </p>
 
-<br><br>
 
 ---
 
